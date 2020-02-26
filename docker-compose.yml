@@ -3,3 +3,4 @@ registry:
   image: registry:2
   ports:
     - 80:5000
+    - 443:5000
