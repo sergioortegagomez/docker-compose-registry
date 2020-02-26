@@ -11,7 +11,7 @@ Update your /etc/hosts file
 ```
 [...]
 
-127.0.0.1 docker-registry.local
+192.168.50.5 docker-registry.local
 
 [...]
 
